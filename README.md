@@ -20,7 +20,7 @@
 5. Setup location simulator to Medan
 6. The default temperature is Kelvin, so it needs to be converted to Celsius
 
-• Video Running
+• Video
 
 https://github.com/felixciawi/weather_project_untar/blob/main/2022-11-11%2012-37-48.mkv
 
